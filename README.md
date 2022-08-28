@@ -21,6 +21,10 @@ Software
 | OpenCore | 0.8.3 |
 | macOS | 12.5.1 (Big Sur works as well) |
 
+## Credits for this configuration:\
+
+I took the configured efi from [this german Hackintosh forum](https://www.hackintosh-forum.de/forum/thread/43529-opencore-sammelthread-lauffähige-konfigurationen-desktop/?postID=529663&highlight=z270e#post529663) I didn't even have to make any changes for the changed CPU model as I figured: same generation - same configuration. So I thought that it could work because both CPUs are ``Kaby Lake CPUs``. I then updated to the latest OpenCore version and adjusted the configuration accordingly.
+
 ## How to get started
 
 Read the Dortania's OpenCore Install Guide. Set the MLB, ROM, SystemSerialNumber and SystemUUID as instructed.
